@@ -20,7 +20,7 @@ package com.yamankod.webservice_2_json;
     import android.widget.TextView;
 
 /**
- *  Hocam Web Service1 çalışmıyor . yeni bir link verilirse çalısacaktır . 
+ *  Hocam Web Service1 çalışmıyor . yeni bir link verilirse çalısacaktır .
  */
 
 
